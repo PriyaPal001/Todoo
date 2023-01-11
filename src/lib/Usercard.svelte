@@ -24,7 +24,7 @@
   .card {
     border: 1px solid #000;
     padding: 10px 10px;
-    width: 25%;
+    width: fit-content;
     display: flex;
     flex-direction: column;
     margin: 20px;
